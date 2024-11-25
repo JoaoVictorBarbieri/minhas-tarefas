@@ -17,7 +17,7 @@ const initialState: TarefaState = {
     },
     {
       id: 2,
-      titulo: 'Estudar VueJS',
+      titulo: 'Estudar TypeScript',
       descricao: 'Entender os principais conceitos',
       prioridade: enums.Prioridade.NORMAL,
       status: enums.Status.PENDENTE
